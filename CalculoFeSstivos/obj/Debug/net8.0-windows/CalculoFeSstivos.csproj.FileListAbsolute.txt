@@ -1,0 +1,16 @@
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.Form1.resources
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.csproj.GenerateResource.cache
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.AssemblyInfoInputs.cache
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.AssemblyInfo.cs
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.csproj.CoreCompileInputs.cache
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\bin\Debug\net8.0-windows\CalculoFeSstivos.exe
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\bin\Debug\net8.0-windows\CalculoFeSstivos.deps.json
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\bin\Debug\net8.0-windows\CalculoFeSstivos.runtimeconfig.json
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\bin\Debug\net8.0-windows\CalculoFeSstivos.dll
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\bin\Debug\net8.0-windows\CalculoFeSstivos.pdb
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.dll
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\refint\CalculoFeSstivos.dll
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.pdb
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\CalculoFeSstivos.genruntimeconfig.cache
+C:\Users\geron\source\repos\CalculoFeSstivos\CalculoFeSstivos\obj\Debug\net8.0-windows\ref\CalculoFeSstivos.dll
